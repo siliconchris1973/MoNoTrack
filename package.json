@@ -1,0 +1,32 @@
+{
+  "name": "MoNoTrack",
+  "version": "0.0.1",
+  "description": "Sample Node.js MongoDB Application",
+  "keywords": [
+    "Node.js",
+    "application",
+    "MongoDB"
+  ],
+  "author": {
+    "name": "siliconchris",
+    "email": "madram_x@mac.com",
+    "url": "http://intothe.hol.es/monotrack"
+  },
+  "homepage": "http://intothe.hol.es/monotrack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siliconchris1973/MoNoTrack"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    "express": "^3.0.0-rc2",
+    "mongoose": "^3.0.0"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "private": true,
+  "main": "server.js"
+}
